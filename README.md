@@ -1,10 +1,10 @@
->👑𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Ivan
+>👑𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Víctor Merlin bot
 
 >🪼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: Dioneibi 
 
 >🪼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: Jostin
 
-## `Goku-Black-Bot-MD-Lite` 
+## `Víctor Merlin bot-Black-Bot-MD-Lite` 
 <p align="center">
 <img src="https://telegra.ph/file/49baa73f0c2f42ad7e85b.png" alt="Goku-Black-Bot-MD-Lite" width="900"/>
 </p>
@@ -13,7 +13,7 @@
 
 
 
-### `✨Goku-Black-Bot-MD-Lite✨`
+### `✨Víctor Merlin bot-Black-Bot-MD-Lite✨`
 
 <a href="https://api.whatsapp.com/send/?phone=595992809980&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -98,10 +98,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
  ### `—◉ 🌹DUDAS SOBRE EL BOT?,CONTACTA AL CREADOR🌹`
-<a href="http://wa.me/595972157130" target="blank"><img src="https://img.shields.io/badge/Ivan_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59896288844" target="blank"><img src="https://img.shields.io/badge/Ivan_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉📄✦CUSTOMER SUPPORT✦📄`
-<a href="http://wa.me/595972157130" target="blank"><img src="https://img.shields.io/badge/Ivan_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59896288844" target="blank"><img src="https://img.shields.io/badge/Ivan_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ## `🌹PROPIETARIO DEL BOT🌹` 
@@ -114,8 +114,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <td align="center"><a 
 <a href="[https://github.com/Jostin207]"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Jostin"/></a>
   
-## `Goku-Black-Bot-MD-Lite`
-## `Dueño:Ivan`
+## `Víctor Merlin bot-Black-Bot-MD-Lite`
+## `dueno Víctor Merlin bot-Black-Bot-MD-Lite` 
 
 ____
 ### **`Superiority Pro Hosting 🤖`**
@@ -131,4 +131,4 @@ ____
 </details>
 ------------------
 
-© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐒𝐢𝐱𝐅𝐢𝐧 𝐓𝐞𝐚𝐦 ⚡︎
+© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐒𝐢𝐱𝐅𝐢𝐧 𝐓𝐞𝐚𝐦 Víctor Merlin bot-Black-Bot-MD-Lite` ⚡︎
